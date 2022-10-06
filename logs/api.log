@@ -1,0 +1,280 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:18] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:18] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:18] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:18] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:18] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:19] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница одного поста запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:21] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:21] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:21] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:21] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:21] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:21] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:24] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:24] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:24] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:24] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:24] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:24] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница постов одного пользователя запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:27] "GET /users/hank HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:27] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:27] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:27] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:27] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:27] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:35] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:35] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:35] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:35] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:35] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:35] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница поиска запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:37] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:37] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:37] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница постов по "query" запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:39] "GET /searching_posts?my_form=закат HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:39] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:39] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:39] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:39] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:39] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:43] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:45] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:45] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:45] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:45] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:45] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:45] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница одного поста запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:49] "GET /posts/5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:49] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:49] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:49] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:49] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:49] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница постов по "query" запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:52] "GET /searching_posts?my_tag=котики HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:52] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:52] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:52] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:52] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:52] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:54] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:54] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:54] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:58] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:58] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:58] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:58] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:24:58] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:2022-06-09 16:25:05.346862 /api/posts
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:25:05] "GET /api/posts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:25:05] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:2022-06-09 16:25:14.571700 /api/posts/5
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:25:14] "GET /api/posts/5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:25:14] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:2022-06-09 16:25:21.175587 /api/posts/9
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:25:21] "GET /api/posts/9 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:25:21] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 16:25:34] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keito\\PycharmProjects\\CW_3\\config.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:werkzeug: * Detected change in 'C:\\Users\\keito\\PycharmProjects\\CW_3\\tests\\utils_test.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:2022-06-09 16:48:40.496667 /api/posts
+INFO:root:2022-06-09 16:48:40.512317 /api/posts/1
+INFO:root:Главная страница запрошена
+INFO:root:Главная страница запрошена
+INFO:root:Страница поиска запрошена
+INFO:werkzeug: * Detected change in 'C:\\Users\\keito\\PycharmProjects\\CW_3\\tests\\utils_test.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:2022-06-09 16:50:00.494450 /api/posts
+INFO:root:2022-06-09 16:50:00.510059 /api/posts/1
+INFO:root:Главная страница запрошена
+INFO:root:Главная страница запрошена
+INFO:root:Страница поиска запрошена
+INFO:werkzeug: * Detected change in 'C:\\Users\\keito\\PycharmProjects\\CW_3\\tests\\utils_test.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:2022-06-09 16:50:21.849732 /api/posts
+INFO:root:2022-06-09 16:50:21.865631 /api/posts/1
+INFO:root:Главная страница запрошена
+INFO:root:Главная страница запрошена
+INFO:root:Страница поиска запрошена
+INFO:werkzeug: * Detected change in 'C:\\Users\\keito\\PycharmProjects\\CW_3\\app\\main\\views.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:2022-06-09 16:58:21.462993 /api/posts
+INFO:root:2022-06-09 16:58:21.462993 /api/posts/1
+INFO:root:Главная страница запрошена
+INFO:root:Главная страница запрошена
+INFO:root:Страница поиска запрошена
+INFO:werkzeug: * Detected change in 'C:\\Users\\keito\\PycharmProjects\\CW_3\\tests\\utils_test.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:2022-06-09 17:07:19.211121 /api/posts
+INFO:root:2022-06-09 17:07:19.211121 /api/posts/1
+INFO:root:Главная страница запрошена
+INFO:root:Главная страница запрошена
+INFO:root:Страница поиска запрошена
+INFO:werkzeug: * Detected change in 'C:\\Users\\keito\\PycharmProjects\\CW_3\\tests\\utils_test.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:2022-06-09 17:07:59.391388 /api/posts
+INFO:root:2022-06-09 17:07:59.391388 /api/posts/1
+INFO:root:Главная страница запрошена
+INFO:root:Главная страница запрошена
+INFO:root:Страница поиска запрошена
+INFO:werkzeug: * Detected change in 'C:\\Users\\keito\\PycharmProjects\\CW_3\\tests\\utils_test.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:2022-06-09 17:11:26.565979 /api/posts
+INFO:root:2022-06-09 17:11:26.565979 /api/posts/1
+INFO:root:Главная страница запрошена
+INFO:root:Главная страница запрошена
+INFO:root:Страница поиска запрошена
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 890-189-311
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:12] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:12] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:12] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:12] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:12] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:12] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:14] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:14] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:14] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:14] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:14] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:14] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница одного поста запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:16] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:16] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:16] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:16] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:16] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:16] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:20] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:20] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:20] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:20] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:20] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:20] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница одного поста запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:24] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:24] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:24] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:24] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:24] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:24] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:26] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:26] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:26] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница постов одного пользователя запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:29] "GET /users/johnny HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:29] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:29] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:29] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:29] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:29] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница одного поста запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:32] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:32] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:32] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:32] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:32] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:32] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:34] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:34] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:34] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:34] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница одного поста запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:40] "GET /posts/5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:40] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:40] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:40] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:40] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:40] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница постов по "query" запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:42] "GET /searching_posts?my_tag=котики HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:42] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:42] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:42] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:42] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:42] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:47] "GET /templates/tag.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:47] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:49] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:50] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:50] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:50] "[36mGET /static/img/search1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:50] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:50] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:50] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница поиска запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:51] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:51] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:51] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница постов по "query" запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:57] "GET /searching_posts?my_form=утро HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:57] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:57] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:57] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:57] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:12:57] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:Страница одного поста запрошена
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:13:00] "GET /posts/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:13:00] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:13:00] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:13:00] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:13:00] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:13:00] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:2022-06-09 17:14:01.278154 /api/posts
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:14:01] "GET /api/posts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:14:01] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:2022-06-09 17:14:09.281912 /api/posts/3
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:14:09] "GET /api/posts/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 17:14:09] "GET /favicon.ico HTTP/1.1" 200 -
