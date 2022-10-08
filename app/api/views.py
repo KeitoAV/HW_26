@@ -3,6 +3,8 @@ from config import LOGS_PATH
 from config import DATA_PATH
 from datetime import datetime
 from flask import Blueprint, jsonify
+
+from db import db
 from utils import PostManager
 
 blueprint = Blueprint('api', __name__, url_prefix='/api')
@@ -33,3 +35,16 @@ def get_post_by_id(post_id):
     if post:
         return jsonify(post)
     return 'Пост с данным id отсутствует в БД'
+
+
+@blueprint.route('/test_db/')
+def test_db():
+    result = db.session.execute(
+        'SELECT 1'
+    ).scalar()
+
+    return jsonify(
+        {
+            'result': result,
+        }
+    )
