@@ -4,13 +4,13 @@ version: "3.9"
 services:
   web:
     build: .
-    image: ekaterinavvv/hw_26:v0.1.0
+#    image: ekaterinavvv/hw_26:v0.1.0
     ports:
       - "80:25000"
     environment:
       - DB_PASSWORD=db_password
       - DB_USER=db_user
-      - DB_DB=db_name
+      - DB_DB=db_db
 
   db:
     image: postgres
