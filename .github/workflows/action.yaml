@@ -18,7 +18,7 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-      - name: render configa
+      - name: render config
         run: |
           mkdir deploy
           export DB_PASSWORD=${{ secrets.DB_PASSWORD }}
