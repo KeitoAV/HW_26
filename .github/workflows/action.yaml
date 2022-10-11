@@ -42,9 +42,8 @@ jobs:
           username: ${{ secrets.SERVER_USERNAME }}
           password: ${{ secrets.SERVER_PASSWORD }}
           script: |
+            
             cd deploy
-#            docker-compose up -d
-
             echo ${{ secrets.SERVER_USERNAME }} | sudo -S docker-compose up -d
 
 
